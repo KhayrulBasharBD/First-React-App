@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.paraStyle{
+    color: white;
+    background: teal;
+    text-align: center;
+    padding: 15px
+}
+
+.card{
+    width: 350px;
+    height: 300px;
+    background: #88ffaa;
+    text-align: center;
+    padding: 15px;
+    display: inline-block;
+    border-radius: 8px;
+    box-shadow: 3px 2px 3px black;
+
+}
+.title{
+    background: #aa00ff;
+    padding: 10px;
+    margin: 0 15px 18px;
+}
+
+.card-body{
+    font-size: 1.3rem;
+    text-align: justify;
+    padding: 8px;
+}
+
+.card-footer{
+    background: rgb(39, 29, 29);
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    text-shadow: 1px 4px  5px cyan;
+}
